@@ -47,7 +47,7 @@ def main():
             print("Goodbye!")
             break
         else:
-            print("Invalid option. Please choose 1-4.")
+            print("Wrong bro")
 
 if __name__ == "__main__":
     main()
